@@ -13,6 +13,7 @@ I'm YinheeeChen, a passionate developer with a love for coding and innovation. H
 ### 🌱 Learning & Development
 - **Machine Learning**: Continuously learning and applying machine learning techniques.
 - **Reinforcement Learning**: Implementing and experimenting with reinforcement learning algorithms like DQN, PPO, and SQN.
+- **
 
 ### 💬 Ask Me About
 - Python and C++ programming
@@ -32,8 +33,8 @@ I'm YinheeeChen, a passionate developer with a love for coding and innovation. H
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### 📈 GitHub Stats
-![YinheeeChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=radical)
+![YinheeeChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinheeeChen&show_icons=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YinheeeChen&layout=compact&theme=shadow_blue)
 
 ### 🏆 Achievements
 - Successfully simulated the SSEM, the world's first stored-program computer.
