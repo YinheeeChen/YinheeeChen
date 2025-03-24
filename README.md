@@ -33,10 +33,10 @@ Collaboration with: Tsinghua University | Advisor: Hao Zhao (2025.1-2025.3)
 ![亮色](https://raw.githubusercontent.com/YinheeeChen/YinheeeChen/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Achievements
-- First Prize in the National English Reading Competition "Understanding Contemporary China" (School Level), Provincial First Prize, National Bronze Prize (Nov 2023)
-- Third Prize in the Central Region of the China College Students' Service Outsourcing Innovation and Entrepreneurship Competition (Jun 2024)
-- Outstanding Student of the Year at Central South University (Mar 2023, Mar 2024)
-- Second-class Scholarship at Central South University (Dec 2023, Dec 2024)
+- **First Prize** in the National English Reading Competition "Understanding Contemporary China" (School Level), **Provincial First Prize**, **National Bronze Prize** (Nov 2023)
+- **Third Prize** in the Central Region of the China College Students' Service Outsourcing Innovation and Entrepreneurship Competition (Jun 2024)
+- **Outstanding Student of the Year** at Central South University (Mar 2023, Mar 2024)
+- **Second-class Scholarship** at Central South University (Dec 2023, Dec 2024)
 
 ### 🌱 Learning & Development
 
