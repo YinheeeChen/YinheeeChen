@@ -4,7 +4,7 @@
 
 ## 👋 Hello! Welcome to my GitHub profile
 
-I'm YinheeeChen, an undergraded student in Central South University. Here's a bit about me and my work:
+I'm YinheeeChen, an undergraduate student in Central South University. Here's a bit about me and my work:
 
 ### 🚀 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
