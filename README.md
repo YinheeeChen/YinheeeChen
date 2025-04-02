@@ -57,13 +57,9 @@ Collaboration with: Tsinghua University | Advisor: Hao Zhao (2025.1-2025.3)
 - Email: [yinhechen@csu.edn.cn](mailto:yinhechen@csu.edn.cn)
 - LinkedIn: [YinheeeChen](https://www.linkedin.com/in/yinheeechen/)
 
-
-
-
-
 ### 🌐 Explore More
 - [My Portfolio](https://your-portfolio-link.com)
-- [My Blog](https://your-blog-link.com)
+- [My Blog](https://yinheee.pages.dev)
 
 ---
 
