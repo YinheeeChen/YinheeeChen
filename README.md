@@ -20,10 +20,10 @@ Collaboration with: Cambridge University & Northwestern Polytechnical University
 - *Co-First Author* | **WACV 2025** (Published) | **Enhancing Diffusion-based Visual Anagram Generation via Multi-task Learning**  
 Collaboration with: Tsinghua University | Advisor: Hao Zhao (2024.7-2024.9)  
 
-- *Co-First Author* | **ICML 2025** (Under Review) | **Pocket-Aware Peptide Conformation Generation via Tokenization and Diffusion Model**  
+- *Co-First Author* | **ICML 2025** (Submitted) | **Pocket-Aware Peptide Conformation Generation via Tokenization and Diffusion Model**  
 Collaboration with: Central South University | Advisor: Fei Guo (2024.10-2025.2)  
 
-- *First Author* | **ICCV 2025** (Under Review) | **Catch The Moment! Automated Highlight Montage Synthesis for Group Selfies**  
+- *First Author* | **ICCV 2025** (Submitted) | **Catch The Moment! Automated Highlight Montage Synthesis for Group Selfies**  
 Collaboration with: Tsinghua University | Advisor: Hao Zhao (2025.1-2025.3)
 
 ### 📈 GitHub Stats
